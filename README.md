@@ -1,16 +1,17 @@
 # SQL PROJECT - my first try - DEMO version
 
-Why I do that?
+Why am I doing that?
 
-I can try new think.
+I want to try new things.
 
 
 What is here:
 
-- Task one
+- **Task one**
 - Czechia Payroll analyse
+- [Link to TASK one]("Task 1.sql")
   
-- Task two
-odkaz na části kódu
+- **Task two**
+
 
 [MD CHeatsheet](https://www.markdownguide.org/cheat-sheet/#overview)
