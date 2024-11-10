@@ -9,7 +9,7 @@ What is here:
 
 - **Task one**
 - Czechia Payroll analyse
-- [Link to TASK one](Task 1.sql)
+- [Link to TASK one](https://github.com/MarcelonaZ/Project_SQL_2024_09_26_MZA/blob/main/Task%201.sql)
   
 - **Task two**
 
